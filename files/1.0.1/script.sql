@@ -1,1 +1,0 @@
-insert into status values (4, 'Teste - Status Novo')
